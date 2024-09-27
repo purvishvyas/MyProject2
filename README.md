@@ -11,6 +11,7 @@ Draw Detection: If all cells are filled without a winner, the game is declared a
 Restart Button: Players can easily restart the game by clicking the "Restart" button.
 Dynamic UI Updates: Status messages dynamically update to show the current player's turn or the game result.
 Responsive Design: The game is fully responsive and works on desktop as well as mobile devices.
+
 Technologies Used
 
 HTML5: For structuring the game board and interface elements.
