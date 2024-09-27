@@ -15,6 +15,8 @@ Responsive Design: The game is fully responsive and works on desktop as well as 
 Technologies Used
 
 HTML5: For structuring the game board and interface elements.
+
 CSS3: For styling the game board, including hover effects, transitions, and responsive design.
+
 JavaScript: For handling game logic, player turns, win/draw conditions, and event handling.
 
